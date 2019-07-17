@@ -1,11 +1,11 @@
-#include "stdafx.h"
-#include "addressbook.h"
 #include <QtWidgets/QApplication>
 
-int main(int argc, char *argv[])
-{
-	QApplication a(argc, argv);
-	AddressBook w;
-	w.show();
-	return a.exec();
+#include "addressbook.h"
+#include "stdafx.h"
+
+int main(int argc, char* argv[]) {
+  QApplication a(argc, argv);
+  AddressBook w;
+  w.show();
+  return a.exec();
 }
