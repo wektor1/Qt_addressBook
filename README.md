@@ -1,1 +1,1 @@
-# Qt_addressBook Win 10/MVS2017/Qt_5.13
+# Qt_addressBook Win 10/MSVS2017/Qt_5.13
